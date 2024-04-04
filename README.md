@@ -10,3 +10,4 @@ This is a repository where solved problems are posted
 - 백준 1009 - 분산처리
 - 백준 1010 - 다리 놓기
 - 백준 1011 - Fly me to the Alpha Centauri
+- 백준 1012 - 유기농 배추
